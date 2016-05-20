@@ -9,3 +9,6 @@ By only adding files pertinent to the logical change to the staging area and the
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 For exploring experimental changes.
+
+How do the diagrams help you visualize the branch structure?
+Because they are visual!
