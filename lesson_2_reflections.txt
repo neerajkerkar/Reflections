@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+A hidden .git file is created that stores metadata. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Allows us to specify which files are to be tracked for changes.
