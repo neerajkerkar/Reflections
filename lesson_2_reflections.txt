@@ -6,3 +6,6 @@ Allows us to specify which files are to be tracked for changes.
 
 How can you use the staging area to make sure you have one commit per logical change?
 By only adding files pertinent to the logical change to the staging area and then committing.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+For exploring experimental changes.
